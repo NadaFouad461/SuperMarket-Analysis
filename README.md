@@ -1,4 +1,4 @@
-# 🛒 Interactive Supermarket Sales & Logistics Analytics Dashboard
+#  Interactive Supermarket Sales & Logistics Analytics Dashboard
 
 An End-to-End Analytics Dashboard designed to evaluate sales, operational efficiency, and supply chain logistics for a supermarket chain using data spanning from **2020 to 2023**. 
 
@@ -31,7 +31,7 @@ The objective of this project is to transform raw, transactional supermarket dat
 │   └── LogisticsDash.png        # Logistics & Supply Chain page
 └── README.md                    # Project documentation
 ```
-Dashboard Preview & Pages
+Dashboard Functional Breakdown
 1. Executive Overview (overviewDash)
 High-level performance indicators tracking overall business health across 2020–2023.
 
@@ -53,6 +53,12 @@ Shipment Tracking: Monitoring fulfillment efficiency across shipment statuses.
 Late Delivery Rate (33%): Identification of supply chain bottlenecks.
 
 Return Rate (5%): Breakdown of product return reasons and total refunded values.
+
+🖼️ Dashboard Screenshots
+Executive Overview Page
+Sales Analysis Page
+Store Operations Page
+Logistics & Supply Chain Page (My Primary Contribution)
 
 🔗 Live Demo & Project Files
 📂 Power BI Full Report (.pbix): Download File from Google Drive https://drive.google.com/drive/folders/1O5i6EnA0qoOzOEkyoSewaPOOw1xY6Ziz?hl=ar
