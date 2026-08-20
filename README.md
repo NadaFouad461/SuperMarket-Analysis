@@ -32,27 +32,13 @@ The objective of this project is to transform raw, transactional supermarket dat
 └── README.md                    # Project documentation
 ```
 Dashboard Functional Breakdown
-1. Executive Overview (overviewDash)
-High-level performance indicators tracking overall business health across 2020–2023.
+Executive Overview (overviewDash): High-level performance indicators tracking overall business health across 2020–2023, including Total Revenue, Total Orders, Sales Quantities, and Gross Margin.
 
-Core KPIs including Total Revenue, Total Orders, Sales Quantities, and Gross Margin.
+Sales & Commercial Analysis (SalesDash): Deep-dive breakdown of product performance across categories, specific product items, and geographic distribution across cities and regions.
 
-2. Sales & Commercial Analysis (SalesDash)
-Deep-dive breakdown of product performance across categories and specific product items.
+Store Operations (storesDash): Operational metrics evaluating individual store performance and analysis of Salary Costs against store revenue.
 
-Geographic sales distribution across various cities and regions.
-
-3. Store Operations (storesDash)
-Operational metrics evaluating individual store performance.
-
-Analysis of Salary Costs against store revenue to evaluate operational efficiency.
-
-4. Logistics & Supply Chain (LogisticsDash — My Primary Contribution)
-Shipment Tracking: Monitoring fulfillment efficiency across shipment statuses.
-
-Late Delivery Rate (33%): Identification of supply chain bottlenecks.
-
-Return Rate (5%): Breakdown of product return reasons and total refunded values.
+Logistics & Supply Chain (LogisticsDash — My Primary Contribution): Shipment tracking, Late Delivery Rate (33%), Return Rate (5%), return reasons breakdown, and total refunded values.
 
 🖼️ Dashboard Screenshots
 Executive Overview Page
