@@ -41,10 +41,10 @@ Store Operations (storesDash): Operational metrics evaluating individual store p
 Logistics & Supply Chain (LogisticsDash — My Primary Contribution): Shipment tracking, Late Delivery Rate (33%), Return Rate (5%), return reasons breakdown, and total refunded values.
 
 🖼️ Dashboard Screenshots
-Executive Overview Page
-Sales Analysis Page
-Store Operations Page
-Logistics & Supply Chain Page (My Primary Contribution)
+![Executive Overview](Dashboards/overviewDash.png)
+![Sales Analysis Page](Dashboards/SalesDash.png)
+![Store Operations Page](Dashboards/storesDash.png)
+![Logistics & Supply Chain Page (My Primary Contribution)](Dashboards/LogisticsDash.png)
 
 🔗 Live Demo & Project Files
 📂 Power BI Full Report (.pbix): Download File from Google Drive https://drive.google.com/drive/folders/1O5i6EnA0qoOzOEkyoSewaPOOw1xY6Ziz?hl=ar
