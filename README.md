@@ -6,12 +6,12 @@ This project was developed as a Graduation Project at the **National Telecommuni
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The objective of this project is to transform raw, transactional supermarket data into structured, actionable business intelligence. It empowers stakeholders to track financial metrics, monitor store and logistics operations, evaluate promotion performance, and optimize supply chain performance.
 
 ---
 
-## 🛠️ Tech Stack & Methods
+##  Tech Stack & Methods
 * **Database & ETL:** SQL Server Management Studio (SSMS) — Used for data extraction, cleaning, schema preparation, and validations.
 * **Data Modeling:** Star Schema Design — Optimized table relationships with single-directional filter flows to ensure high DAX performance.
 * **Calculations & Metrics:** DAX (Data Analysis Expressions) — Developed dynamic measures for revenue, order volumes, delivery metrics, and cost ratios.
