@@ -19,19 +19,6 @@ The objective of this project is to transform raw, transactional supermarket dat
 * **Data Visualization & UI/UX:** Power BI — Custom visual templates, integrated navigation pane, dynamic slicers, bookmarks, and a reset filters button.
 
 ---
-
-## 📂 Project Repository Structure
-
-```text
-├── Dataset/                     # 12 CSV files containing source relational data
-├── Queries/                     # SQL scripts for ETL, data cleaning, and validation
-├── Dashboards/                  # Dashboard page screenshots
-│   ├── overviewDash.png         # Preview of Executive Overview page
-│   ├── SalesDash.png            # Preview of Sales Analysis page
-│   ├── storesDash.png           # Preview of Store Operations page
-│   └── LogisticsDash.png        # Preview of Logistics & Supply Chain page
-└── README.md                    # Project documentation
-
 Dashboard Pages & Functional Breakdown
 1. overviewDash (Executive Overview)
 High-level performance indicators tracking overall business health across 2020–2023.
@@ -67,3 +54,18 @@ Supplier Analysis: Evaluating performance metrics across international suppliers
 Power BI Full Report (.pbix): Click Here to Download from Google Drive
 
 Demo Video & Showcase: Check out the interactive walkthrough on my LinkedIn Profile.
+
+## 📂 Project Repository Structure
+
+```text
+├── Dataset/                     # 12 CSV files containing source relational data
+├── Queries/                     # SQL scripts for ETL, data cleaning, and validation
+├── Dashboards/                  # Dashboard page screenshots
+│   ├── overviewDash.png         # Preview of Executive Overview page
+│   ├── SalesDash.png            # Preview of Sales Analysis page
+│   ├── storesDash.png           # Preview of Store Operations page
+│   └── LogisticsDash.png        # Preview of Logistics & Supply Chain page
+└── README.md                    # Project documentation
+
+
+
