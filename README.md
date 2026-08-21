@@ -49,4 +49,4 @@ Logistics & Supply Chain (LogisticsDash — My Primary Contribution): Shipment t
 🔗 Live Demo & Project Files
 📂 Power BI Full Report (.pbix): Download File from Google Drive https://drive.google.com/drive/folders/1O5i6EnA0qoOzOEkyoSewaPOOw1xY6Ziz?hl=ar
 
-💼 LinkedIn Post & Demo: View LinkedIn Profile
+ LinkedIn Post & Demo: View LinkedIn Profile https://lnkd.in/p/eN7KmAYM
