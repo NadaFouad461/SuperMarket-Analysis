@@ -19,7 +19,7 @@ The objective of this project is to transform raw, transactional supermarket dat
 
 ---
 
-## 📂 Project Repository Structure
+##  Project Repository Structure
 
 ```text
 ├── Dataset/                     # 12 CSV files containing source relational data
